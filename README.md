@@ -31,6 +31,15 @@ Entrada:
 A = 5.0
 B = 3.0
 
+> Exercício 7:Verificando Extensões Instaladas
+Anote quais extensões existem instaladas atualmente na sua IDE.
+
+> Exercício 8: Instalando Extensões
+Instale duas extensões de sua preferência. Explique para que servem as extensões
+instaladas e o que mudou na sua IDE após a instalação.
+
+> Exercício 9: Customizando a IDE - Temas
+Instale o Tema Drácula na sua IDE. Escolha qual o melhor tema de sua preferência. Descreva como você fez para configurar o tema da sua IDE.
 
 # Autores
 
