@@ -1,0 +1,9 @@
+Extensões instaladas
+
+Material Icon Theme
+Robot Framework Language
+Git Lens
+ES6 Mocha Snippets
+Dracula Official
+C/C++
+C/C++ Compile Run

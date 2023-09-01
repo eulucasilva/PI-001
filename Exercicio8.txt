@@ -1,0 +1,10 @@
+Git Lens
+
+É uma extensão que agrega os recursos do Git ao VScode. 
+Ele mostra quem, por quê e quando um bloco de linha ou código foi alterado, melhorando a rastreabilidade do projeto.
+
+
+Material Icon Theme
+
+É uma exntensão que ajuda a melhorar a aparência dos projeto no vscode, adicionando ícones a depender do tipo de arquivo
+e projeto.
